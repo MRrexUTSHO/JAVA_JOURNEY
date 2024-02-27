@@ -1,0 +1,3 @@
+public class Nqueens {
+    // ghete gelo dude ... 
+}
